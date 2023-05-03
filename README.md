@@ -17,6 +17,3 @@
 - The first prediction takes longer time to be completed because the model is loaded from the library for the first time
 - Could not cache the model using service worker because it depends on other online resources
 - Passess 100% of the lighthouse audit except for the Performance because the model is loaded from the library
-
-## Install it as PWA
-## Enjoy!
